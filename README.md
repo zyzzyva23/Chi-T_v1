@@ -70,10 +70,6 @@ An example use case is shown below
         * show help message and exit
     * -o, --output_directory: OUTPUT_DIRECTORY
         * Directory to store output files
-    * -ip, --id_part_change: ID_PART_CHANGE
-        * Identity parts that should be chimerified (except ID element)
-        * Using this will select sequences containing all identity elements, but not necessarily the wild-type sequence
-        * Input: names of parts separated by a space e.g. tRNA1-7_66-72* tRNA27-31_39-43*
     * -cp, --cluster_parts: CLUSTER_PARTS
         * Number of parts for each part type to cluster
         * Default is 200
@@ -117,6 +113,11 @@ An example use case is shown below
     * -t, --num_tRNAs: NUM_TRNAS
         * Number of designs to output for each synthetase.
         * Default 4.
+    * -ip, --id_part_change: ID_PART_CHANGE
+        * Identity parts that should be chimerified (except ID element)
+        * Using this will select sequences containing all identity elements, but not necessarily the wild-type sequence
+        * Input: names of parts separated by a space e.g. tRNA1-7_66-72* tRNA27-31_39-43*
+        * Part names given by the range of bases (1-7_66-72, 8-9, 10-13_22-25, 14-21_54_60, 26_44-48, 27-31_39-43, 32-38, 49-53_61-65), prefixed by 'tRNA' and suffixed by '*' 
 
 ### Example Usage with Arguments
 
