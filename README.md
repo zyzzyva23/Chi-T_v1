@@ -121,7 +121,7 @@ An example use case is shown below
 
 ### Example Usage with Arguments
 
-```python main.py tRNA_database.csv synthetase_file.xlsx metSynth1 Met –o output_folder –ip tRNA1-7_66-72* –cp 70 –cf 0.3 0 1500000 0.1 –-length_filt 78 –-anticodons CTA TGA CGA -F 0.6 -D 3 –-frequency 0.4 –-diversity 5 –m –i –p pattern_file.xlsx –ham –t 6```
+```python main.py tRNA_database.csv synthetase_file.xlsx metSynth1 Met –o output_folder –ip tRNA1-7_66-72* –cp 70 –cf 0.3 0 1500000 0.1 –-length_filt 78 –-anticodons CTA TGA CGA -F 0.6 -D 3 –-frequency 0.4 –-diversity 5 –m –i –p pattern_file.xlsx –t 6```
 
 ## Creating Oligos
 
