@@ -1,102 +1,1254 @@
->Vir_pro_iter1_seq2460
-GGGAGCUUCGCGAAGUGGUAUCGCUCAUGCCCCGAACGCAUGAGGUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-30.40)
-(((((((..(({{.......}}}|((((((.......)))))),...(((((.......)))))))))))).... [-31.07]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-26.70 d=4.80}
- frequency of mfe structure in ensemble 0.336168; ensemble diversity 7.29  
->Vir_pro_iter1_seq2478
-GGGAGCUUCGCGAAGUGGUAUCGCUCGUGCUUCGAGUGCACGAGGUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-32.80)
-(((((((..((({.,,,...}))|((((((.......))))))}...(((((.......)))))))))))).... [-33.54]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-29.10 d=6.35}
- frequency of mfe structure in ensemble 0.299295; ensemble diversity 9.52  
->Vir_pro_iter1_seq2514
-GGGAGCUUCGCGAAGUGGUAUCGCUCGUGCCCCGAAAGCACGAGGUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-31.70)
-(((((((..(({{.......}))|((((((.......))))))}...(((((.......)))))))))))).... [-32.37]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-28.00 d=4.25}
- frequency of mfe structure in ensemble 0.337684; ensemble diversity 6.21  
->Vir_pro_iter1_seq3025
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCUUCGAGUGGAAGAGGUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-31.60)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-32.21]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-30.60 d=3.02}
- frequency of mfe structure in ensemble 0.374631; ensemble diversity 4.68  
->Vir_pro_iter1_seq3026
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCUUCGAGUGGAAGAGGUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-30.80)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-31.42]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-29.80 d=3.11}
- frequency of mfe structure in ensemble 0.367107; ensemble diversity 4.81  
->Vir_pro_iter1_seq3027
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCUUCGAGUGGAAGAGGUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-27.70)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-28.31]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-26.70 d=3.09}
- frequency of mfe structure in ensemble 0.372217; ensemble diversity 4.78  
->Vir_pro_iter1_seq3028
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCUUCGAGUGGAAGAGGUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-30.10)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-30.70]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-29.10 d=3.00}
- frequency of mfe structure in ensemble 0.375771; ensemble diversity 4.62  
->Vir_pro_iter1_seq3031
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCUCGAGCGGAAGAGGUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-30.60)
-(((((((..,(((.......)))|((((((.......)))))),...(((((.......)))))))))))).... [-31.28]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-29.60 d=3.92}
- frequency of mfe structure in ensemble 0.333357; ensemble diversity 6.29  
->Vir_pro_iter1_seq3033
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCUCGAGCGGAAGAGGUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-26.70)
-(((((((..{(((.......)))|((((((.......)))))),...(((((.......)))))))))))).... [-27.38]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-25.70 d=3.98}
- frequency of mfe structure in ensemble 0.331116; ensemble diversity 6.41  
->Vir_pro_iter1_seq3034
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCUCGAGCGGAAGAGGUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-29.10)
-(((((((..,(((.......)))|((((((.......)))))),...(((((.......)))))))))))).... [-29.77]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-28.10 d=3.88}
- frequency of mfe structure in ensemble 0.334514; ensemble diversity 6.22  
->Vir_pro_iter1_seq3043
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCUCGAACGGAAGAGGUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-30.60)
-(((((((..,(((.......)))|((((((.......)))))),...(((((.......)))))))))))).... [-31.28]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-29.60 d=3.92}
- frequency of mfe structure in ensemble 0.333363; ensemble diversity 6.28  
->Vir_pro_iter1_seq3045
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCUCGAACGGAAGAGGUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-26.70)
-(((((((..{(((.......)))|((((((.......)))))),...(((((.......)))))))))))).... [-27.38]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-25.70 d=3.98}
- frequency of mfe structure in ensemble 0.331122; ensemble diversity 6.41  
->Vir_pro_iter1_seq3046
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCUCGAACGGAAGAGGUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-29.10)
-(((((((..,(((.......)))|((((((.......)))))),...(((((.......)))))))))))).... [-29.77]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-28.10 d=3.88}
- frequency of mfe structure in ensemble 0.33452; ensemble diversity 6.22  
->Vir_pro_iter1_seq3049
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCCCGAACGGAAGAGGUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-30.60)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-31.21]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-29.60 d=3.08}
- frequency of mfe structure in ensemble 0.369068; ensemble diversity 4.79  
->Vir_pro_iter1_seq3050
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCCCGAACGGAAGAGGUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-29.80)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-30.43]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-28.80 d=3.16}
- frequency of mfe structure in ensemble 0.361742; ensemble diversity 4.92  
->Vir_pro_iter1_seq3051
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCCCGAACGGAAGAGGUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-26.70)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-27.32]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-25.70 d=3.14}
- frequency of mfe structure in ensemble 0.366717; ensemble diversity 4.90  
->Vir_pro_iter1_seq3052
-GGGAGCUGUAUGCAGUGGUAGCAUUCUUCCCCCGAACGGAAGAGGUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
-(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-29.10)
-(((((((..,(((.......)))|((((((.......))))))....(((((.......)))))))))))).... [-29.71]
-(((((((...(((.......))).((((((.......))))))....(((((.......)))))))))))).... {-28.10 d=3.05}
- frequency of mfe structure in ensemble 0.370259; ensemble diversity 4.73  
+>Vir_pro_iter1_seq10549
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAGCGCACGUAGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.34]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.00 d=1.79}
+ frequency of mfe structure in ensemble 0.578788; ensemble diversity 3.23  
+>Vir_pro_iter1_seq10551
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAGCGCACGUAGCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.10)
+(((((((..((((.......}}||((((((.......)))))).,,(((((.......)))))))))))).... [-29.62]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.10 d=6.30}
+ frequency of mfe structure in ensemble 0.433339; ensemble diversity 9.25  
+>Vir_pro_iter1_seq10552
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAGCGCACGUAGCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.84]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.50 d=2.08}
+ frequency of mfe structure in ensemble 0.571662; ensemble diversity 3.75  
+>Vir_pro_iter1_seq10560
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAACGCACGUAGCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.50)
+(((((((..((((.......)))){(((((.......)))))}..,(((((.......)))))))))))).... [-32.06]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.50 d=9.05}
+ frequency of mfe structure in ensemble 0.402748; ensemble diversity 13.70 
+>Vir_pro_iter1_seq10561
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAACGCACGUAGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.33]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.00 d=1.73}
+ frequency of mfe structure in ensemble 0.581565; ensemble diversity 3.12  
+>Vir_pro_iter1_seq10563
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAACGCACGUAGCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.10)
+(((((((..((((.......}}||((((((.......)))))).,,(((((.......)))))))))))).... [-29.61]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.10 d=6.26}
+ frequency of mfe structure in ensemble 0.435207; ensemble diversity 9.16  
+>Vir_pro_iter1_seq10564
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCUCGAACGCACGUAGCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.84]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.50 d=2.02}
+ frequency of mfe structure in ensemble 0.574399; ensemble diversity 3.64  
+>Vir_pro_iter1_seq10566
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAACGCACGUAGCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.88]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.50 d=2.77}
+ frequency of mfe structure in ensemble 0.543633; ensemble diversity 4.77  
+>Vir_pro_iter1_seq10567
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAACGCACGUAGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.33]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.00 d=1.73}
+ frequency of mfe structure in ensemble 0.581758; ensemble diversity 3.12  
+>Vir_pro_iter1_seq10569
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAACGCACGUAGCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.10)
+(((((((..((((.......}}||((((((.......)))))).,,(((((.......)))))))))))).... [-29.61]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.10 d=6.24}
+ frequency of mfe structure in ensemble 0.435616; ensemble diversity 9.13  
+>Vir_pro_iter1_seq10570
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAACGCACGUAGCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.84]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.50 d=2.01}
+ frequency of mfe structure in ensemble 0.574633; ensemble diversity 3.63  
+>Vir_pro_iter1_seq10578
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAAAGCACGUAGCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.76]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.40 d=2.01}
+ frequency of mfe structure in ensemble 0.560152; ensemble diversity 3.33  
+>Vir_pro_iter1_seq10579
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAAAGCACGUAGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.23]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.90 d=1.73}
+ frequency of mfe structure in ensemble 0.581653; ensemble diversity 3.11  
+>Vir_pro_iter1_seq10581
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAAAGCACGUAGCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.00)
+(((((((..((((.......}}||((((((.......)))))).,,(((((.......)))))))))))).... [-29.51]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.00 d=6.23}
+ frequency of mfe structure in ensemble 0.435581; ensemble diversity 9.12  
+>Vir_pro_iter1_seq10582
+GGGAGCUUAGCGAAGUGGUAUCGCACGUGCCCCGAAAGCACGUAGCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.74]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.40 d=2.01}
+ frequency of mfe structure in ensemble 0.574532; ensemble diversity 3.62  
+>Vir_pro_iter1_seq10836
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCUUCGAGUGGAAGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.88]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.70 d=1.32}
+ frequency of mfe structure in ensemble 0.748785; ensemble diversity 2.41  
+>Vir_pro_iter1_seq10837
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCUUCGAGUGGAAGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.40]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.20 d=1.33}
+ frequency of mfe structure in ensemble 0.719131; ensemble diversity 2.46  
+>Vir_pro_iter1_seq10838
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCUUCGAGUGGAAGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.69]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.40 d=2.08}
+ frequency of mfe structure in ensemble 0.628582; ensemble diversity 3.75  
+>Vir_pro_iter1_seq10839
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCUUCGAGUGGAAGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-28.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-28.51]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-28.30 d=1.43}
+ frequency of mfe structure in ensemble 0.710436; ensemble diversity 2.66  
+>Vir_pro_iter1_seq10840
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCUUCGAGUGGAAGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.90]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.70 d=1.31}
+ frequency of mfe structure in ensemble 0.72161; ensemble diversity 2.42  
+>Vir_pro_iter1_seq10854
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCUCGAACGGAAGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.85]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.58}
+ frequency of mfe structure in ensemble 0.788848; ensemble diversity 1.10  
+>Vir_pro_iter1_seq10855
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCUCGAACGGAAGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.39]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.20 d=1.03}
+ frequency of mfe structure in ensemble 0.737898; ensemble diversity 1.97  
+>Vir_pro_iter1_seq10856
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCUCGAACGGAAGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.65]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.40 d=0.98}
+ frequency of mfe structure in ensemble 0.670779; ensemble diversity 1.81  
+>Vir_pro_iter1_seq10857
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCUCGAACGGAAGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-27.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-27.52]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-27.30 d=1.96}
+ frequency of mfe structure in ensemble 0.696324; ensemble diversity 3.64  
+>Vir_pro_iter1_seq10858
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCUCGAACGGAAGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.88]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.73}
+ frequency of mfe structure in ensemble 0.749338; ensemble diversity 1.40  
+>Vir_pro_iter1_seq10860
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAACGGAAGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.83]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.44}
+ frequency of mfe structure in ensemble 0.806597; ensemble diversity 0.83  
+>Vir_pro_iter1_seq10861
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAACGGAAGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.37]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.20 d=0.63}
+ frequency of mfe structure in ensemble 0.763139; ensemble diversity 1.21  
+>Vir_pro_iter1_seq10862
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAACGGAAGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.63]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.40 d=0.76}
+ frequency of mfe structure in ensemble 0.688265; ensemble diversity 1.38  
+>Vir_pro_iter1_seq10863
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAACGGAAGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-27.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-27.48]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-27.30 d=0.83}
+ frequency of mfe structure in ensemble 0.749677; ensemble diversity 1.60  
+>Vir_pro_iter1_seq10864
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAACGGAAGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.86]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.57}
+ frequency of mfe structure in ensemble 0.767294; ensemble diversity 1.08  
+>Vir_pro_iter1_seq10872
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAAAGGAAGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.75]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.60 d=0.66}
+ frequency of mfe structure in ensemble 0.78678; ensemble diversity 1.26  
+>Vir_pro_iter1_seq10873
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAAAGGAAGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.28]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.10 d=0.83}
+ frequency of mfe structure in ensemble 0.745639; ensemble diversity 1.58  
+>Vir_pro_iter1_seq10874
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAAAGGAAGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.54]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.30 d=0.96}
+ frequency of mfe structure in ensemble 0.672336; ensemble diversity 1.77  
+>Vir_pro_iter1_seq10875
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAAAGGAAGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-27.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-27.39]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-27.20 d=0.96}
+ frequency of mfe structure in ensemble 0.735479; ensemble diversity 1.83  
+>Vir_pro_iter1_seq10876
+GGGAGCUUAGCUCAGUGGUAGAGCGCUUCCCCCGAAAGGAAGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.78]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.60 d=0.82}
+ frequency of mfe structure in ensemble 0.7474; ensemble diversity 1.57  
+>Vir_pro_iter1_seq10878
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCUUCGAGUGCAGGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.90)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.01]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.90 d=0.25}
+ frequency of mfe structure in ensemble 0.834554; ensemble diversity 0.47  
+>Vir_pro_iter1_seq10879
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCUUCGAGUGCAGGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-34.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-34.54]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-34.40 d=0.38}
+ frequency of mfe structure in ensemble 0.791711; ensemble diversity 0.72  
+>Vir_pro_iter1_seq10880
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCUUCGAGUGCAGGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-33.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.81]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-33.60 d=0.51}
+ frequency of mfe structure in ensemble 0.714581; ensemble diversity 0.91  
+>Vir_pro_iter1_seq10881
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCUUCGAGUGCAGGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.50)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.65]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.50 d=0.49}
+ frequency of mfe structure in ensemble 0.782089; ensemble diversity 0.94  
+>Vir_pro_iter1_seq10882
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCUUCGAGUGCAGGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.90)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.04]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.90 d=0.38}
+ frequency of mfe structure in ensemble 0.794148; ensemble diversity 0.71  
+>Vir_pro_iter1_seq10896
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCCUCGAACGCAGGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.90)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.01]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.90 d=0.33}
+ frequency of mfe structure in ensemble 0.830064; ensemble diversity 0.62  
+>Vir_pro_iter1_seq10897
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCCUCGAACGCAGGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-33.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.55]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-33.40 d=0.47}
+ frequency of mfe structure in ensemble 0.786828; ensemble diversity 0.90  
+>Vir_pro_iter1_seq10898
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCCUCGAACGCAGGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.91]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.60 d=5.13}
+ frequency of mfe structure in ensemble 0.605026; ensemble diversity 8.69  
+>Vir_pro_iter1_seq10899
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCCUCGAACGCAGGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.50)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.70]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.50 d=2.47}
+ frequency of mfe structure in ensemble 0.722236; ensemble diversity 4.57  
+>Vir_pro_iter1_seq10900
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUGCCUCGAACGCAGGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.90)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.05]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.90 d=0.56}
+ frequency of mfe structure in ensemble 0.787078; ensemble diversity 1.07  
+>Vir_pro_iter1_seq10944
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAACUGCAGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.80)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.00]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.80 d=0.48}
+ frequency of mfe structure in ensemble 0.723799; ensemble diversity 0.89  
+>Vir_pro_iter1_seq10945
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAACUGCAGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.53]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.30 d=0.56}
+ frequency of mfe structure in ensemble 0.688419; ensemble diversity 1.04  
+>Vir_pro_iter1_seq10947
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAACUGCAGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-27.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-27.64]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-27.40 d=0.94}
+ frequency of mfe structure in ensemble 0.6721; ensemble diversity 1.78  
+>Vir_pro_iter1_seq10948
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAACUGCAGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.80)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.03]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.80 d=0.53}
+ frequency of mfe structure in ensemble 0.691091; ensemble diversity 0.98  
+>Vir_pro_iter1_seq10956
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAAAUGCAGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.91]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.41}
+ frequency of mfe structure in ensemble 0.711453; ensemble diversity 0.74  
+>Vir_pro_iter1_seq10957
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAAAUGCAGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.44]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.20 d=0.54}
+ frequency of mfe structure in ensemble 0.675052; ensemble diversity 0.99  
+>Vir_pro_iter1_seq10958
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAAAUGCAGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.71]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.40 d=0.69}
+ frequency of mfe structure in ensemble 0.608865; ensemble diversity 1.22  
+>Vir_pro_iter1_seq10959
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAAAUGCAGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-27.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-27.55]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-27.30 d=0.64}
+ frequency of mfe structure in ensemble 0.66711; ensemble diversity 1.18  
+>Vir_pro_iter1_seq10960
+GGGAGCUUAGCUCAGUGGUAGAGCGCUGCACCCGAAAUGCAGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.94]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.51}
+ frequency of mfe structure in ensemble 0.677675; ensemble diversity 0.93  
+>Vir_pro_iter1_seq10962
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGUUCGAGUCGAGGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.84]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.70 d=0.53}
+ frequency of mfe structure in ensemble 0.791344; ensemble diversity 1.02  
+>Vir_pro_iter1_seq10963
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGUUCGAGUCGAGGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-33.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.38]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-33.20 d=0.90}
+ frequency of mfe structure in ensemble 0.743079; ensemble diversity 1.74  
+>Vir_pro_iter1_seq10964
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGUUCGAGUCGAGGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.64]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.40 d=0.89}
+ frequency of mfe structure in ensemble 0.674895; ensemble diversity 1.64  
+>Vir_pro_iter1_seq10965
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGUUCGAGUCGAGGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.49]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.30 d=1.04}
+ frequency of mfe structure in ensemble 0.733356; ensemble diversity 2.00  
+>Vir_pro_iter1_seq10966
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGUUCGAGUCGAGGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.87]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.70 d=0.63}
+ frequency of mfe structure in ensemble 0.753813; ensemble diversity 1.21  
+>Vir_pro_iter1_seq10998
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGCCCGAAACGAGGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.33]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.20 d=0.31}
+ frequency of mfe structure in ensemble 0.815624; ensemble diversity 0.58  
+>Vir_pro_iter1_seq10999
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGCCCGAAACGAGGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.86]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.70 d=0.44}
+ frequency of mfe structure in ensemble 0.773795; ensemble diversity 0.83  
+>Vir_pro_iter1_seq11000
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGCCCGAAACGAGGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.90)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.12]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.90 d=0.58}
+ frequency of mfe structure in ensemble 0.698054; ensemble diversity 1.05  
+>Vir_pro_iter1_seq11001
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGCCCGAAACGAGGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-28.80)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-28.97]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-28.80 d=0.54}
+ frequency of mfe structure in ensemble 0.764737; ensemble diversity 1.02  
+>Vir_pro_iter1_seq11002
+GGGAGCUUAGCUCAGUGGUAGAGCGCCUCGCCCGAAACGAGGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.20)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.36]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.20 d=0.40}
+ frequency of mfe structure in ensemble 0.776944; ensemble diversity 0.76  
+>Vir_pro_iter1_seq11040
+GGGAGCUUAGCUCAGUGGUAGAGCGCAUGCCCCGAAAGCAUGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.72]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.60 d=0.32}
+ frequency of mfe structure in ensemble 0.828814; ensemble diversity 0.60  
+>Vir_pro_iter1_seq11041
+GGGAGCUUAGCUCAGUGGUAGAGCGCAUGCCCCGAAAGCAUGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.25]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.10 d=0.40}
+ frequency of mfe structure in ensemble 0.788099; ensemble diversity 0.76  
+>Vir_pro_iter1_seq11042
+GGGAGCUUAGCUCAGUGGUAGAGCGCAUGCCCCGAAAGCAUGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-30.30)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-30.51]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-30.30 d=0.53}
+ frequency of mfe structure in ensemble 0.711484; ensemble diversity 0.94  
+>Vir_pro_iter1_seq11044
+GGGAGCUUAGCUCAGUGGUAGAGCGCAUGCCCCGAAAGCAUGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.74]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.60 d=0.37}
+ frequency of mfe structure in ensemble 0.791174; ensemble diversity 0.70  
+>Vir_pro_iter1_seq11046
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCUUCGAGUGCACGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.10)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.23]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.10 d=0.46}
+ frequency of mfe structure in ensemble 0.808595; ensemble diversity 0.88  
+>Vir_pro_iter1_seq11047
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCUUCGAGUGCACGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-33.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.76]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-33.60 d=0.42}
+ frequency of mfe structure in ensemble 0.773921; ensemble diversity 0.80  
+>Vir_pro_iter1_seq11048
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCUUCGAGUGCACGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.80)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-33.02]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.80 d=0.66}
+ frequency of mfe structure in ensemble 0.69618; ensemble diversity 1.19  
+>Vir_pro_iter1_seq11049
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCUUCGAGUGCACGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-29.87]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-29.70 d=0.56}
+ frequency of mfe structure in ensemble 0.762916; ensemble diversity 1.07  
+>Vir_pro_iter1_seq11050
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCUUCGAGUGCACGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.10)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.26]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.10 d=0.39}
+ frequency of mfe structure in ensemble 0.776936; ensemble diversity 0.74  
+>Vir_pro_iter1_seq11065
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCUCGAACGCACGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.83]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.60 d=1.49}
+ frequency of mfe structure in ensemble 0.690855; ensemble diversity 2.76  
+>Vir_pro_iter1_seq11066
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCUCGAACGCACGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.80)
+(((((((..((((.......)))).(((({.......))})).....{((((.......)))))))))))).... [-32.29]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.80 d=10.33}
+ frequency of mfe structure in ensemble 0.4486; ensemble diversity 15.37 
+>Vir_pro_iter1_seq11068
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCUCGAACGCACGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.33]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.10 d=1.46}
+ frequency of mfe structure in ensemble 0.693547; ensemble diversity 2.69  
+>Vir_pro_iter1_seq11070
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAACGCACGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......)))).{((({..,,,,,}||||....,|||{|,,,,...}})))))))))).... [-31.61]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.10 d=9.80}
+ frequency of mfe structure in ensemble 0.439732; ensemble diversity 12.17 
+>Vir_pro_iter1_seq11071
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAACGCACGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.81]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.60 d=1.12}
+ frequency of mfe structure in ensemble 0.712522; ensemble diversity 2.07  
+>Vir_pro_iter1_seq11072
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAACGCACGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.80)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.07]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.80 d=1.26}
+ frequency of mfe structure in ensemble 0.642314; ensemble diversity 2.28  
+>Vir_pro_iter1_seq11074
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAACGCACGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.31]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.10 d=1.09}
+ frequency of mfe structure in ensemble 0.715327; ensemble diversity 2.01  
+>Vir_pro_iter1_seq11082
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAAAGCACGAGAUCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.13]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.00 d=0.31}
+ frequency of mfe structure in ensemble 0.813053; ensemble diversity 0.58  
+>Vir_pro_iter1_seq11083
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAAAGCACGAGAUCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-32.66]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-32.50 d=0.41}
+ frequency of mfe structure in ensemble 0.773584; ensemble diversity 0.77  
+>Vir_pro_iter1_seq11084
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAAAGCACGAGAUCCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.92]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.70 d=0.54}
+ frequency of mfe structure in ensemble 0.698166; ensemble diversity 0.95  
+>Vir_pro_iter1_seq11085
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAAAGCACGAGAUCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-28.77]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-28.60 d=0.53}
+ frequency of mfe structure in ensemble 0.763233; ensemble diversity 1.00  
+>Vir_pro_iter1_seq11086
+GGGAGCUUAGCUCAGUGGUAGAGCGCGUGCCCCGAAAGCACGAGAUCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... [-31.16]
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).... {-31.00 d=0.38}
+ frequency of mfe structure in ensemble 0.776601; ensemble diversity 0.71  
+>Vir_pro_iter1_seq11088
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCUUCGAGUGGAAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.35]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.00 d=1.04}
+ frequency of mfe structure in ensemble 0.56792; ensemble diversity 1.76  
+>Vir_pro_iter1_seq11089
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCUUCGAGUGGAAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.88]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.50 d=1.17}
+ frequency of mfe structure in ensemble 0.53918; ensemble diversity 2.01  
+>Vir_pro_iter1_seq11090
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCUUCGAGUGGAAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.70 d=1.99}
+ frequency of mfe structure in ensemble 0.460377; ensemble diversity 3.38  
+>Vir_pro_iter1_seq11091
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCUUCGAGUGGAAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.98]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.60 d=1.20}
+ frequency of mfe structure in ensemble 0.536476; ensemble diversity 2.08  
+>Vir_pro_iter1_seq11092
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCUUCGAGUGGAAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.00 d=1.17}
+ frequency of mfe structure in ensemble 0.539609; ensemble diversity 2.00  
+>Vir_pro_iter1_seq11094
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAGCGGAAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.36]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.16}
+ frequency of mfe structure in ensemble 0.556489; ensemble diversity 1.99  
+>Vir_pro_iter1_seq11095
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAGCGGAAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.90]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.50 d=1.38}
+ frequency of mfe structure in ensemble 0.526394; ensemble diversity 2.41  
+>Vir_pro_iter1_seq11096
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAGCGGAAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.20]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.70 d=2.45}
+ frequency of mfe structure in ensemble 0.443952; ensemble diversity 4.23  
+>Vir_pro_iter1_seq11097
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAGCGGAAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.00]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.60 d=1.40}
+ frequency of mfe structure in ensemble 0.524007; ensemble diversity 2.45  
+>Vir_pro_iter1_seq11098
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAGCGGAAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.40]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.41}
+ frequency of mfe structure in ensemble 0.526569; ensemble diversity 2.47  
+>Vir_pro_iter1_seq11106
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAACGGAAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.36]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.02}
+ frequency of mfe structure in ensemble 0.560685; ensemble diversity 1.72  
+>Vir_pro_iter1_seq11107
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAACGGAAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.89]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.50 d=1.21}
+ frequency of mfe structure in ensemble 0.530831; ensemble diversity 2.09  
+>Vir_pro_iter1_seq11108
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAACGGAAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.19]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.70 d=1.98}
+ frequency of mfe structure in ensemble 0.45437; ensemble diversity 3.35  
+>Vir_pro_iter1_seq11109
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAACGGAAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-28.99]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.60 d=1.21}
+ frequency of mfe structure in ensemble 0.528829; ensemble diversity 2.09  
+>Vir_pro_iter1_seq11110
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCUCGAACGGAAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.39]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.15}
+ frequency of mfe structure in ensemble 0.532716; ensemble diversity 1.96  
+>Vir_pro_iter1_seq11112
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAACGGAAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.35]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.00}
+ frequency of mfe structure in ensemble 0.564303; ensemble diversity 1.68  
+>Vir_pro_iter1_seq11113
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAACGGAAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.89]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.50 d=1.15}
+ frequency of mfe structure in ensemble 0.535317; ensemble diversity 1.97  
+>Vir_pro_iter1_seq11114
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAACGGAAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.70 d=1.96}
+ frequency of mfe structure in ensemble 0.457308; ensemble diversity 3.31  
+>Vir_pro_iter1_seq11115
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAACGGAAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-28.99]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.60 d=1.17}
+ frequency of mfe structure in ensemble 0.532954; ensemble diversity 2.00  
+>Vir_pro_iter1_seq11116
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAACGGAAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.13}
+ frequency of mfe structure in ensemble 0.536167; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11124
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAAAGGAAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.25]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.90 d=1.00}
+ frequency of mfe structure in ensemble 0.563394; ensemble diversity 1.69  
+>Vir_pro_iter1_seq11125
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAAAGGAAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.79]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=1.15}
+ frequency of mfe structure in ensemble 0.534605; ensemble diversity 1.97  
+>Vir_pro_iter1_seq11126
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAAAGGAAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.08]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.60 d=1.96}
+ frequency of mfe structure in ensemble 0.456588; ensemble diversity 3.32  
+>Vir_pro_iter1_seq11127
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAAAGGAAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-28.89]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.50 d=1.17}
+ frequency of mfe structure in ensemble 0.532181; ensemble diversity 2.01  
+>Vir_pro_iter1_seq11128
+GGGAGCUUAGCUCAGUGGUAGAGCACUUCCCCCGAAAGGAAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.29]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.90 d=1.13}
+ frequency of mfe structure in ensemble 0.535248; ensemble diversity 1.94  
+>Vir_pro_iter1_seq11130
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCUUCGAGUGCAGGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.20)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.54]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.20 d=0.96}
+ frequency of mfe structure in ensemble 0.572974; ensemble diversity 1.60  
+>Vir_pro_iter1_seq11131
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCUUCGAGUGCAGGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-35.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-36.08]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-35.70 d=1.09}
+ frequency of mfe structure in ensemble 0.54399; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11132
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCUUCGAGUGCAGGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-35.37]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.90 d=1.92}
+ frequency of mfe structure in ensemble 0.464341; ensemble diversity 3.23  
+>Vir_pro_iter1_seq11133
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCUUCGAGUGCAGGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.80)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.80 d=1.12}
+ frequency of mfe structure in ensemble 0.541243; ensemble diversity 1.91  
+>Vir_pro_iter1_seq11134
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCUUCGAGUGCAGGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.20)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.57]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.20 d=1.08}
+ frequency of mfe structure in ensemble 0.544409; ensemble diversity 1.84  
+>Vir_pro_iter1_seq11148
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCUCGAACGCAGGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.20)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.54]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.20 d=0.96}
+ frequency of mfe structure in ensemble 0.572095; ensemble diversity 1.60  
+>Vir_pro_iter1_seq11149
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCUCGAACGCAGGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-35.08]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.70 d=1.09}
+ frequency of mfe structure in ensemble 0.543158; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11150
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCUCGAACGCAGGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.90 d=1.99}
+ frequency of mfe structure in ensemble 0.462603; ensemble diversity 3.36  
+>Vir_pro_iter1_seq11151
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCUCGAACGCAGGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.80)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.80 d=1.17}
+ frequency of mfe structure in ensemble 0.539556; ensemble diversity 2.00  
+>Vir_pro_iter1_seq11152
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCUCGAACGCAGGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.20)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.58]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.20 d=1.09}
+ frequency of mfe structure in ensemble 0.543546; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11154
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAACGCAGGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.20)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.54]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.20 d=0.96}
+ frequency of mfe structure in ensemble 0.572148; ensemble diversity 1.60  
+>Vir_pro_iter1_seq11155
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAACGCAGGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-35.08]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.70 d=1.09}
+ frequency of mfe structure in ensemble 0.543207; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11156
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAACGCAGGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.37]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.90 d=1.92}
+ frequency of mfe structure in ensemble 0.463586; ensemble diversity 3.24  
+>Vir_pro_iter1_seq11157
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAACGCAGGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.80)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.80 d=1.13}
+ frequency of mfe structure in ensemble 0.540397; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11158
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAACGCAGGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.20)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.58]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.20 d=1.09}
+ frequency of mfe structure in ensemble 0.543623; ensemble diversity 1.84  
+>Vir_pro_iter1_seq11166
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAAAGCAGGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.44]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.10 d=0.96}
+ frequency of mfe structure in ensemble 0.57192; ensemble diversity 1.60  
+>Vir_pro_iter1_seq11167
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAAAGCAGGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.98]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.60 d=1.09}
+ frequency of mfe structure in ensemble 0.542988; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11168
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAAAGCAGGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.80)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.27]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.80 d=1.92}
+ frequency of mfe structure in ensemble 0.463484; ensemble diversity 3.23  
+>Vir_pro_iter1_seq11169
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAAAGCAGGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.08]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.70 d=1.13}
+ frequency of mfe structure in ensemble 0.540249; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11170
+GGGAGCUUAGCUCAGUGGUAGAGCACCUGCCCCGAAAGCAGGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.48]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.10 d=1.09}
+ frequency of mfe structure in ensemble 0.543406; ensemble diversity 1.84  
+>Vir_pro_iter1_seq11172
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCAUUCGAGUUGCAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.47]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.10 d=1.05}
+ frequency of mfe structure in ensemble 0.547791; ensemble diversity 1.77  
+>Vir_pro_iter1_seq11173
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCAUUCGAGUUGCAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.00]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.60 d=1.18}
+ frequency of mfe structure in ensemble 0.520137; ensemble diversity 2.02  
+>Vir_pro_iter1_seq11174
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCAUUCGAGUUGCAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.80)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.30]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.80 d=2.01}
+ frequency of mfe structure in ensemble 0.443886; ensemble diversity 3.41  
+>Vir_pro_iter1_seq11175
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCAUUCGAGUUGCAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-30.11]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.70 d=1.21}
+ frequency of mfe structure in ensemble 0.517499; ensemble diversity 2.09  
+>Vir_pro_iter1_seq11176
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCAUUCGAGUUGCAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.50]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.10 d=1.17}
+ frequency of mfe structure in ensemble 0.520536; ensemble diversity 2.01  
+>Vir_pro_iter1_seq11190
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACUCGAACUGCAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.53]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.10 d=1.27}
+ frequency of mfe structure in ensemble 0.495723; ensemble diversity 2.18  
+>Vir_pro_iter1_seq11191
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACUCGAACUGCAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.06]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.60 d=1.40}
+ frequency of mfe structure in ensemble 0.471125; ensemble diversity 2.42  
+>Vir_pro_iter1_seq11193
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACUCGAACUGCAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.70 d=2.12}
+ frequency of mfe structure in ensemble 0.456405; ensemble diversity 3.77  
+>Vir_pro_iter1_seq11194
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACUCGAACUGCAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.56]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.10 d=1.40}
+ frequency of mfe structure in ensemble 0.471393; ensemble diversity 2.42  
+>Vir_pro_iter1_seq11196
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAACUGCAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.53]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.10 d=1.09}
+ frequency of mfe structure in ensemble 0.501285; ensemble diversity 1.83  
+>Vir_pro_iter1_seq11197
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAACUGCAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.06]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.60 d=1.22}
+ frequency of mfe structure in ensemble 0.475931; ensemble diversity 2.08  
+>Vir_pro_iter1_seq11198
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAACUGCAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+((((((((.((.(((((......)))))....((((((((.......)))))))).....)))))))))).... (-32.10)
+(((((((,.((,(,{{{...,,,)||||{,..,,,,,|||}},...,||||,,,,...,,)))))))))).... [-32.78]
+(((((((..................((((.........)))).....................))))))).... {-13.62 d=15.31}
+ frequency of mfe structure in ensemble 0.331586; ensemble diversity 16.33 
+>Vir_pro_iter1_seq11199
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAACUGCAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.16]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.70 d=1.31}
+ frequency of mfe structure in ensemble 0.472408; ensemble diversity 2.26  
+>Vir_pro_iter1_seq11200
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAACUGCAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.56]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.10 d=1.22}
+ frequency of mfe structure in ensemble 0.476294; ensemble diversity 2.07  
+>Vir_pro_iter1_seq11208
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAAAUGCAGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.44]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.11}
+ frequency of mfe structure in ensemble 0.490509; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11209
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAAAUGCAGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.97]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.50 d=1.24}
+ frequency of mfe structure in ensemble 0.465712; ensemble diversity 2.10  
+>Vir_pro_iter1_seq11210
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAAAUGCAGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.27]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.70 d=2.07}
+ frequency of mfe structure in ensemble 0.397511; ensemble diversity 3.48  
+>Vir_pro_iter1_seq11211
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAAAUGCAGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.07]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.60 d=1.27}
+ frequency of mfe structure in ensemble 0.463362; ensemble diversity 2.17  
+>Vir_pro_iter1_seq11212
+GGGAGCUUAGCUCAGUGGUAGAGCACUGCACCCGAAAUGCAGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.47]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.23}
+ frequency of mfe structure in ensemble 0.466068; ensemble diversity 2.09  
+>Vir_pro_iter1_seq11214
+GGGAGCUUAGCUCAGUGGUAGAGCACCUCGUUCGAGUCGAGGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.36]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.00 d=0.99}
+ frequency of mfe structure in ensemble 0.554991; ensemble diversity 1.66  
+>Vir_pro_iter1_seq11215
+GGGAGCUUAGCUCAGUGGUAGAGCACCUCGUUCGAGUCGAGGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.90]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.50 d=1.16}
+ frequency of mfe structure in ensemble 0.526081; ensemble diversity 1.99  
+>Vir_pro_iter1_seq11216
+GGGAGCUUAGCUCAGUGGUAGAGCACCUCGUUCGAGUCGAGGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.19]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.70 d=1.98}
+ frequency of mfe structure in ensemble 0.449125; ensemble diversity 3.36  
+>Vir_pro_iter1_seq11217
+GGGAGCUUAGCUCAGUGGUAGAGCACCUCGUUCGAGUCGAGGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.00]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.60 d=1.17}
+ frequency of mfe structure in ensemble 0.523904; ensemble diversity 2.00  
+>Vir_pro_iter1_seq11218
+GGGAGCUUAGCUCAGUGGUAGAGCACCUCGUUCGAGUCGAGGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.39]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.00 d=1.12}
+ frequency of mfe structure in ensemble 0.527334; ensemble diversity 1.90  
+>Vir_pro_iter1_seq11256
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCUUCGAGUGCAUGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.34]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.00 d=0.96}
+ frequency of mfe structure in ensemble 0.57222; ensemble diversity 1.60  
+>Vir_pro_iter1_seq11257
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCUUCGAGUGCAUGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.88]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.50 d=1.09}
+ frequency of mfe structure in ensemble 0.543283; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11258
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCUUCGAGUGCAUGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.17]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.70 d=1.92}
+ frequency of mfe structure in ensemble 0.46373; ensemble diversity 3.23  
+>Vir_pro_iter1_seq11259
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCUUCGAGUGCAUGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.98]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.60 d=1.13}
+ frequency of mfe structure in ensemble 0.54054; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11260
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCUUCGAGUGCAUGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.00 d=1.09}
+ frequency of mfe structure in ensemble 0.543702; ensemble diversity 1.84  
+>Vir_pro_iter1_seq11274
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCUCGAACGCAUGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.35]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.25}
+ frequency of mfe structure in ensemble 0.564378; ensemble diversity 2.17  
+>Vir_pro_iter1_seq11275
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCUCGAACGCAUGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.88]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.50 d=1.09}
+ frequency of mfe structure in ensemble 0.542462; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11276
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCUCGAACGCAUGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.17]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.70 d=1.94}
+ frequency of mfe structure in ensemble 0.462723; ensemble diversity 3.27  
+>Vir_pro_iter1_seq11277
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCUCGAACGCAUGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-28.98]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.60 d=1.14}
+ frequency of mfe structure in ensemble 0.53929; ensemble diversity 1.95  
+>Vir_pro_iter1_seq11278
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCUCGAACGCAUGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.09}
+ frequency of mfe structure in ensemble 0.542873; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11280
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAACGCAUGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.35]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=0.99}
+ frequency of mfe structure in ensemble 0.570656; ensemble diversity 1.66  
+>Vir_pro_iter1_seq11281
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAACGCAUGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.88]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.50 d=1.09}
+ frequency of mfe structure in ensemble 0.542519; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11282
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAACGCAUGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.70)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.17]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.70 d=1.92}
+ frequency of mfe structure in ensemble 0.463057; ensemble diversity 3.24  
+>Vir_pro_iter1_seq11283
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAACGCAUGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-28.98]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.60 d=1.13}
+ frequency of mfe structure in ensemble 0.539747; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11284
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAACGCAUGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.09}
+ frequency of mfe structure in ensemble 0.542937; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11292
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAAAGCAUGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.25]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.90 d=0.96}
+ frequency of mfe structure in ensemble 0.5712; ensemble diversity 1.60  
+>Vir_pro_iter1_seq11293
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAAAGCAUGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.78]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=1.09}
+ frequency of mfe structure in ensemble 0.542313; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11294
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAAAGCAUGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.60)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.07]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.60 d=1.92}
+ frequency of mfe structure in ensemble 0.462909; ensemble diversity 3.24  
+>Vir_pro_iter1_seq11295
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAAAGCAUGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-28.88]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.50 d=1.13}
+ frequency of mfe structure in ensemble 0.539574; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11296
+GGGAGCUUAGCUCAGUGGUAGAGCACAUGCCCCGAAAGCAUGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.28]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.90 d=1.09}
+ frequency of mfe structure in ensemble 0.542729; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11298
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCUUCGAGUGCACGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.74]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.40 d=0.96}
+ frequency of mfe structure in ensemble 0.571629; ensemble diversity 1.61  
+>Vir_pro_iter1_seq11299
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCUUCGAGUGCACGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-35.28]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.90 d=1.09}
+ frequency of mfe structure in ensemble 0.542779; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11300
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCUUCGAGUGCACGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-34.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.57]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-34.10 d=1.92}
+ frequency of mfe structure in ensemble 0.463339; ensemble diversity 3.24  
+>Vir_pro_iter1_seq11301
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCUUCGAGUGCACGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.00 d=1.13}
+ frequency of mfe structure in ensemble 0.54004; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11302
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCUUCGAGUGCACGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.78]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.40 d=1.09}
+ frequency of mfe structure in ensemble 0.543198; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11304
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAGCGCACGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.87]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=5.17}
+ frequency of mfe structure in ensemble 0.467213; ensemble diversity 8.56  
+>Vir_pro_iter1_seq11305
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAGCGCACGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.28]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.90 d=1.13}
+ frequency of mfe structure in ensemble 0.54036; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11306
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAGCGCACGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.58]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.10 d=1.97}
+ frequency of mfe structure in ensemble 0.460909; ensemble diversity 3.33  
+>Vir_pro_iter1_seq11307
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAGCGCACGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-30.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.00 d=1.16}
+ frequency of mfe structure in ensemble 0.537601; ensemble diversity 1.99  
+>Vir_pro_iter1_seq11308
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAGCGCACGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.78]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=1.12}
+ frequency of mfe structure in ensemble 0.540775; ensemble diversity 1.91  
+>Vir_pro_iter1_seq11316
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAACGCACGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.87]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=5.15}
+ frequency of mfe structure in ensemble 0.468369; ensemble diversity 8.53  
+>Vir_pro_iter1_seq11317
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAACGCACGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.28]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.90 d=1.10}
+ frequency of mfe structure in ensemble 0.541969; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11318
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAACGCACGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.58]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.10 d=1.94}
+ frequency of mfe structure in ensemble 0.462245; ensemble diversity 3.28  
+>Vir_pro_iter1_seq11319
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAACGCACGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-30.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.00 d=1.13}
+ frequency of mfe structure in ensemble 0.539205; ensemble diversity 1.93  
+>Vir_pro_iter1_seq11320
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCUCGAACGCACGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.78]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=1.09}
+ frequency of mfe structure in ensemble 0.542386; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11322
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAACGCACGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.75]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=1.19}
+ frequency of mfe structure in ensemble 0.564952; ensemble diversity 2.07  
+>Vir_pro_iter1_seq11323
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAACGCACGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.28]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.90 d=1.09}
+ frequency of mfe structure in ensemble 0.542016; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11324
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAACGCACGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.10)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.58]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.10 d=1.92}
+ frequency of mfe structure in ensemble 0.462671; ensemble diversity 3.24  
+>Vir_pro_iter1_seq11325
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAACGCACGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-30.38]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.00 d=1.13}
+ frequency of mfe structure in ensemble 0.539277; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11326
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAACGCACGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.78]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=1.09}
+ frequency of mfe structure in ensemble 0.542434; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11334
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAAAGCACGUGACGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.30)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.65]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.30 d=0.96}
+ frequency of mfe structure in ensemble 0.570675; ensemble diversity 1.61  
+>Vir_pro_iter1_seq11335
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAAAGCACGUGACCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.80)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.18]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.80 d=1.09}
+ frequency of mfe structure in ensemble 0.541826; ensemble diversity 1.86  
+>Vir_pro_iter1_seq11336
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAAAGCACGUGACCGCGGUUCGAUUCCGCGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.00)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.48]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.00 d=1.92}
+ frequency of mfe structure in ensemble 0.462532; ensemble diversity 3.24  
+>Vir_pro_iter1_seq11337
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAAAGCACGUGACCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-30.28]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.90 d=1.13}
+ frequency of mfe structure in ensemble 0.539093; ensemble diversity 1.92  
+>Vir_pro_iter1_seq11338
+GGGAGCUUAGCUCAGUGGUAGAGCACGUGCCCCGAAAGCACGUGACCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.30)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.68]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.30 d=1.09}
+ frequency of mfe structure in ensemble 0.542244; ensemble diversity 1.85  
+>Vir_pro_iter1_seq11340
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCUUCGAGUGGAAGAGGCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.60]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.90 d=2.19}
+ frequency of mfe structure in ensemble 0.32032; ensemble diversity 3.57  
+>Vir_pro_iter1_seq11341
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCUUCGAGUGGAAGAGGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-33.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-34.12]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-33.40 d=2.30}
+ frequency of mfe structure in ensemble 0.308868; ensemble diversity 3.80  
+>Vir_pro_iter1_seq11343
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCUUCGAGUGGAAGAGGCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-29.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-30.23]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-29.50 d=2.35}
+ frequency of mfe structure in ensemble 0.307028; ensemble diversity 3.90  
+>Vir_pro_iter1_seq11344
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCUUCGAGUGGAAGAGGCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-31.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-32.62]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-31.90 d=2.29}
+ frequency of mfe structure in ensemble 0.309168; ensemble diversity 3.79  
+>Vir_pro_iter1_seq11364
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCCCCGAACGGAAGAGGCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.61]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.90 d=2.28}
+ frequency of mfe structure in ensemble 0.314953; ensemble diversity 3.73  
+>Vir_pro_iter1_seq11365
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCCCCGAACGGAAGAGGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.40)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-33.13]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.40 d=2.40}
+ frequency of mfe structure in ensemble 0.303477; ensemble diversity 3.98  
+>Vir_pro_iter1_seq11367
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCCCCGAACGGAAGAGGCCCAAGUUCGAUUCUUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-28.50)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-29.24]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-28.50 d=2.45}
+ frequency of mfe structure in ensemble 0.301626; ensemble diversity 4.09  
+>Vir_pro_iter1_seq11368
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCCCCGAACGGAAGAGGCCCAGGUUCGAUUCCUGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.90)
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... [-31.63]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.90 d=2.39}
+ frequency of mfe structure in ensemble 0.303819; ensemble diversity 3.97  
+>Vir_pro_iter1_seq11376
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCCCCGAAAGGAAGAGGCGUGGGUUCGAUUCCCACAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-30.80)
+(((((((..((((.......)))){(((((.......)))))),..(((((.......)))))))))))).... [-31.56]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-30.80 d=2.99}
+ frequency of mfe structure in ensemble 0.293585; ensemble diversity 4.95  
+>Vir_pro_iter1_seq11377
+GGGAGCUUAGCUCAGUGGUAGAGCUCUUCCCCCGAAAGGAAGAGGCCCCGGUUCGAUUCCGGGAGCUCCCCCCA
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... (-32.30)
+(((((((..((((.......)))){(((((.......)))))),..(((((.......)))))))))))).... [-33.08]
+(((((((..((((.......))))((((((.......))))))...(((((.......)))))))))))).... {-32.30 d=3.12}
+ frequency of mfe structure in ensemble 0.282621; ensemble diversity 5.21  
