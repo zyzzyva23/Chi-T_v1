@@ -225,7 +225,6 @@ class Isoacceptor2(object):
         self.ac = ac
         self.huge_df = huge_df
         self.trnas = dict()
-        self.used_parts = {}
 
         # Holds all tRNAs from each iteration
         self.iter_trnas = {}
@@ -319,15 +318,14 @@ class Isoacceptor2(object):
 
         self.folded = {}
         self.low_part_types = []
-        self.mid_part_types = []
 
     #######################
 
     def cluster_parts(self, sample_size, synth_name, clust_id_parts=False, display=False, log_file=None, iteration=1,
-                      automatic=False, clust_size_min=None, ham=False):
+                      automatic=False, clust_size_min=None):
 
         """This method uses Levenshtein distance between sequences and affinity propagation to cluster parts.
-        Clustering could be optimised. For maximum sample size, parameters have been adjusted to:
+        Clustering could be optimised. For maximum sample size, parameters can be adjusted to:
         damping=0.9 (parameter for extent to which the current value is maintained relative to incoming values)
         and max_iter=1000 (number of iterations clustering will run for without converging).
         With these parameters, have been able to push algorithm from n=377 to much greater than 2500,
@@ -349,22 +347,37 @@ class Isoacceptor2(object):
             clust_dict = {part_type: parts for part_type, parts in clust_dict.items()
                           if part_type not in self.id_parts}
 
+        if self.id_part_change:
+            trna_id = [synth for synth in self.synths if synth.name == synth_name][0].trna_id
+            trna = self.huge_df[self.huge_df.seq_id == trna_id]
+            for part_type in self.id_part_change:
+                trna_part_seq = list(trna[part_type])[0]
+                if isinstance(trna_part_seq, str):
+                    if part_type == 'tRNA14-21_54-60*':
+                        trna_part_al = list(trna['tRNA14-21_54-60* aligned'])[0]
+                    else:
+                        trna_part_al = trna_part_seq
+                    trna_part = Part2(trna_part_seq, part_type, self.aa, trna_id, trna_part_al, self)
+                    new_list = []
+                    for part in clust_dict[part_type]:
+                        success_list = []
+                        for base in self.non_part_ids[part_type]:
+                            trna_base = trna_part.seq_dict[base]
+                            success_list.append(part.seq_dict[base] == trna_base)
+                        if all(success_list):
+                            new_list.append(part)
+                    clust_dict[part_type] = new_list
+
         # Make all low numbered part types exemplars
         if iteration == 1:
             for part_type, parts in clust_dict.items():
-                if ham:
-                    for i, part in enumerate(parts):
-                        part.cluster_id = i
-                        part.exemplar = 'all'
-                    self.low_part_types.append(part_type)
-                elif len(parts) < 15:
+                if len(parts) < 15:
                     self.low_part_types.append(part_type)
                     for i, part in enumerate(parts):
                         part.cluster_id = i
                         part.exemplar = 'all'
-                elif len(parts) < self.num_iter * 3:
-                    self.mid_part_types.append(part_type)
 
+        print('Unique sequences for each variable part type:')
         print({part_type: len(part_list) for part_type, part_list in clust_dict.items()})
 
         # Take top parts
@@ -415,23 +428,15 @@ class Isoacceptor2(object):
                         part.exemplar = False
                     damping += 0.1
 
-            # iterate through clusters
-
-        # self.exemplar_parts = {part_type: [part for part in part_list if part.exemplar in ['all', iteration]]
-        #                        for part_type, part_list in self.all_parts.items()
-        #                        if part_type not in self.id_parts}
+        print(f'Parts Clustered!...Time elapsed: {round(time.time() - now, 5)}s')
 
         for part_type, part_list in self.all_parts.items():
             if part_type not in self.id_parts:  # and part_type not in self.exemplar_parts.keys():
                 self.exemplar_parts[part_type] = [part for part in part_list if part.exemplar in ['all', iteration]]
 
-        for part_type, part_list in self.exemplar_parts.items():
-            if part_type in self.used_parts.keys():
-                self.used_parts[part_type] += [part for part in part_list if part.exemplar == iteration]
-            else:
-                self.used_parts[part_type] = [part for part in part_list if part.exemplar == iteration]
-            if part_type in self.mid_part_types:
-                self.used_parts[part_type] = []
+
+        print('Number of exemplar sequences for each variable part type:')
+        print({part_type: len(part_list) for part_type, part_list in self.exemplar_parts.items()})
 
         est = np.prod([len(part_list) for part_list in self.exemplar_parts.values()])
         print(f'Estimated Chimeras: {est}')
@@ -440,23 +445,15 @@ class Isoacceptor2(object):
             while True:
                 size_ans = input('Continue? (y) or (n):\n')
                 if size_ans.lower() == 'y':
+                    print('Chimerifying your parts...')
                     break
                 elif size_ans.lower() == 'n':
-                    print(f'Consider changing sample size for clustering.\n Current sample size is {sample_size}\n')
-                    while True:
-                        size_ans_ = input("Enter new sample size or 'q' to quit\n> ")
-                        if size_ans_.lower() == 'q':
-                            print('Thank you for trying Chi-T!')
-                            sys.exit()
-                        else:
-                            try:
-                                new_size = int(size_ans_)
-                                self.cluster_parts(new_size, synth_name)
-                            except ValueError:
-                                print('Inappropriate value!')
-                                continue
-
-        print(f'Parts Clustered!...Time elapsed: {time.time() - now}')
+                    print(f'Consider changing sample size for clustering.\nCurrent sample size is {sample_size}')
+                    print('A lower sample size will reduce the number of chimeras.')
+                    print('Thank you for trying Chi-T!')
+                    sys.exit()
+                else:
+                    print('Inappropriate value! Enter y for yes or n for no.')
 
     ###########################
 
@@ -465,7 +462,7 @@ class Isoacceptor2(object):
         count = 0
 
         now = time.time()
-        print(f'Choosing exemplars...Time Elapsed: {time.time() - now}')
+        print(f'Choosing exemplars...Time Elapsed: {round(time.time() - now, 5)}s')
         # print([synth.name for synth in self.synths])
         for part_type, id_seq in [synth for synth in self.synths if synth.name == synth_name][0].id_seqs.items():
             self.exemplar_parts[part_type] = [id_seq]
@@ -486,7 +483,7 @@ class Isoacceptor2(object):
                 f.write('Exemplar Parts: \n')
                 f.write(str({part_type: len(part_list) for part_type, part_list in self.exemplar_parts.items()}) + '\n')
 
-        print(f'Mixing parts...Time Elapsed: {time.time() - now}')
+        print(f'Mixing parts...Time Elapsed: {round(time.time() - now, 5)}s')
         listoflistofparts = [[{part_type: part} for part in part_list] for part_type, part_list in
                              self.exemplar_parts.items()]
         self.trnas = list(product(*listoflistofparts))
@@ -496,14 +493,14 @@ class Isoacceptor2(object):
                       for trna in self.trnas]
         self.trnas = [open_dict(trna) for trna in self.trnas]
 
-        print(f'Joining parts...Time Elapsed: {time.time() - now}')
+        print(f'Joining parts...Time Elapsed: {round(time.time() - now, 5)}s')
         self.trnas_ = {}
 
         for i, trna_ in enumerate(self.trnas):
             self.trnas_.update({f'{synth_name}_iter{iteration}_seq{i}': tRNA(trna_, self.ac)})
             count += 1
             if count % 400000 == 0:
-                print(f'{count} chimeras made...Time Elapsed: {time.time() - now}')
+                print(f'{count} chimeras made...Time Elapsed: {round(time.time() - now, 5)}s')
         self.trnas = self.trnas_
         if length_filt:
             self.trnas = {name: trna for name, trna in self.trnas.items() if len(trna.seq[self.ac]) < length_filt}
@@ -513,7 +510,7 @@ class Isoacceptor2(object):
                 if length_filt:
                     f.write(f'Length (<{length_filt}) Filtered Chimeras: {len(self.trnas)}\n')
 
-        print(f'{len(self.trnas)} Chimeras Made!...Time Elapsed: {time.time() - now}')
+        print(f'{len(self.trnas)} Chimeras Made!...Time Elapsed: {round(time.time() - now, 5)}s')
 
     ##############################
 
@@ -526,7 +523,7 @@ class Isoacceptor2(object):
         target is the number of trnas below which the filtering must return.
         step_size is the decrease in threshold applied each iteration"""
         now = time.time()
-        print(f'Scoring tRNAs...Time Elapsed: {time.time() - now}')
+        print(f'Scoring tRNAs...Time Elapsed: {round(time.time() - now, 5)}s')
         for trna in self.trnas.values():
             if not trna.cer_score:
                 trna.trna_cer_scorer()
@@ -536,7 +533,7 @@ class Isoacceptor2(object):
         plt.xlabel('Cervettini Score')
         plt.savefig(output_dir + f'/plots/cscores_{synth_name}_iter{iteration}.pdf')
         plt.clf()
-        print(f'Filtering tRNAs...Time Elapsed: {time.time() - now}')
+        print(f'Filtering tRNAs...Time Elapsed: {round(time.time() - now, 5)}s')
         stringency = start_stringency
         step_size = round(step_size, 4)
         log_string = 'Cervettini Filtering: \n'
@@ -546,17 +543,17 @@ class Isoacceptor2(object):
 
             self.trnas = {name: trna for name, trna in self.trnas.items() if max(trna.cer_score.values()) <= stringency}
             log_string += f'Threshold: {stringency} tRNAs remaining: {len(self.trnas)}\n'
-            print(f'Threshold: {stringency} tRNAs remaining: {len(self.trnas)}...Time Elapsed: {time.time() - now}')
+            print(f'Threshold: {stringency} tRNAs remaining: {len(self.trnas)}...Time Elapsed: {round(time.time() - now, 5)}s')
             stringency = round(stringency - step_size, 4)
 
         if log_file:
             with open(log_file, 'a') as f:
                 f.write(log_string)
-        print(f'tRNAs Filtered!...tRNAs remaining: {len(self.trnas)}...Time elapsed: {time.time() - now}')
+        print(f'tRNAs Filtered!...tRNAs remaining: {len(self.trnas)}...Time elapsed: {round(time.time() - now, 5)}s')
 
     ##############################
 
-    def store_trnas(self, filename):
+    def store_trnas(self, filename, compress=False):
         """Stores self.trnas to a csv in a form that can retrieve the important information"""
 
         now = time.time()
@@ -571,8 +568,11 @@ class Isoacceptor2(object):
             trna_df = pd.DataFrame.from_dict(dict_for_df, orient='index')
             trna_df = trna_df.reset_index()
             trna_df.columns = ['name', 'seq', 'part_dict', 'cer_score', 'struct', 'div', 'freq']
-            trna_df.to_csv(filename, index=False)
-            print(f'tRNAs Stored!...Time elapsed: {time.time() - now}')
+            if compress:
+                trna_df.to_csv(filename, index=False, compression='gzip')
+            else:
+                trna_df.to_csv(filename, index=False)
+            print(f'tRNAs Stored!...Time elapsed: {round(time.time() - now, 5)}s')
         else:
             print('No tRNAs to store!')
 
@@ -600,7 +600,7 @@ class Isoacceptor2(object):
                                      freq=ast.literal_eval(trna_info['freq']),
                                      seq=ast.literal_eval(trna_info['seq']))
                           for name, trna_info in trna_dict.items()}
-        print(f'{len(self.trnas)} Retrieved!...Time elapsed: {time.time() - now}')
+        print(f'{len(self.trnas)} Retrieved!...Time elapsed: {round(time.time() - now, 5)}s')
 
     ###############################
 
@@ -632,7 +632,7 @@ class Isoacceptor2(object):
             with open(f'{output_file_stem}_{ac}_{i}.fa', 'w+') as f:
                 for name, trna in batch.items():
                     f.write(f'>{name}\n{trna.seq[ac]}\n')
-        print(f'tRNAs Exported!...Time elapsed: {time.time() - now}')
+        print(f'tRNAs Exported!...Time elapsed: {round(time.time() - now, 5)}s')
 
     ###############################
 
@@ -701,7 +701,7 @@ class Isoacceptor2(object):
                 f.write(f'Chimeras: {len(self.well_folded)} Anticodon: {ac} '
                         f'Frequency: >={freq_thresh} Diversity: <={div_thresh}\n'
                         f'Pattern: {pattern}\n')
-        print(f'There are {len(self.well_folded)} well-folding tRNA designs!...Time elapsed: {time.time() - now}')
+        print(f'There are {len(self.well_folded)} well-folding tRNA designs!...Time elapsed: {round(time.time() - now, 5)}s')
 
         if inplace:
             self.trnas = self.well_folded
@@ -728,7 +728,7 @@ class Isoacceptor2(object):
                                              else trna.part_dict_[part_type].seq)
                                             for part_type in part_order])
 
-        print(f'Anticodon Changed!...Time elapsed: {time.time() - now}')
+        print(f'Anticodon Changed!...Time elapsed: {round(time.time() - now, 5)}s')
 
     #######################################
 
@@ -741,7 +741,7 @@ class Isoacceptor2(object):
 
         now = time.time()
 
-        print(f'Final filtering step on {len(self.trnas)} tRNAs')
+        print(f'Final filtering step on {len(self.trnas)} tRNAs with frequency >= {freq_thresh} and diversity <= {div_thresh}')
 
         for name, trna in self.trnas.items():
             trna.avg_freq = sum([float(freq) for freq in trna.freq.values()]) / len(trna.freq)
@@ -767,7 +767,7 @@ class Isoacceptor2(object):
             with open(log_file, 'a') as f:
                 f.write(f'Final Filter with freq_thresh: {freq_thresh} '
                         f'div_thresh: {div_thresh} percentile_out: {percentile_out}\nChimeras: {len(self.trnas)}\n')
-        print(f'Filtering Complete! {len(self.trnas)} remain...Time elapsed: {time.time() - now}')
+        print(f'Filtering Complete! {len(self.trnas)} remain...Time elapsed: {round(time.time() - now, 5)}s')
 
     ########################################
 
@@ -791,7 +791,6 @@ class Isoacceptor2(object):
         except TypeError:
             print('Error in database entry for WT sequence.')
             native_seq = input('Please enter sequence of native sequence: ')
-        print(native_seq)
         for name, trna in self.trnas.items():
             trna.nat_lev_dist = distance.levenshtein(trna.seq[self.ac], native_seq)
 
@@ -809,10 +808,16 @@ class Isoacceptor2(object):
 
         if not automatic:
             while True:
-                user = input("Cut-off point for distance to native ('x' for exit)\n>  ")
+                user = input("Cut-off point for distance to native ('x' for exit, 'h' for help)\n>  ")
                 if user.lower() == 'x':
-                    print(f'{len(self.trnas)} tRNAs remaining!')
-                    break
+                    print('Thank you for trying Chi-T!')
+                    sys.exit()
+                elif user.lower() == 'h':
+                    print('This number sets the threshold to how similar the output tRNAs must be to the\n'
+                          'native tRNA. e.g. if a tRNA is being designed for a Saccharomyces cerevisiae\n'
+                          'Trp synthetase ScTrpRS, then a value of 25 would discard any tRNAs greater than\n'
+                          '25 mutations from the anticodon-recoded Saccharomyces cerevisiae Trp-tRNA,\n'
+                          'defined here as Levenshtein distance.')
                 else:
                     try:
                         cutoff = float(user)
@@ -909,7 +914,7 @@ class Isoacceptor2(object):
             self.exemplar_trnas = self.trnas
 
         read_back = [{name: trna} for name, trna in self.exemplar_trnas.items()]
-        print(f'{len(self.exemplar_trnas)} exemplars chosen...Maximising diversity...Time elapsed: {time.time() - now}')
+        print(f'{len(self.exemplar_trnas)} exemplars chosen...Maximising diversity...Time elapsed: {round(time.time() - now, 5)}s')
 
         if num_seqs < len(self.exemplar_trnas):
             diverse_trnas, distances = max_dist_parallel_memo([tRNA for tRNA in self.exemplar_trnas.values()], num_seqs,
@@ -930,10 +935,8 @@ class Isoacceptor2(object):
                 if distances:
                     f.write(f'Minimum Distance: {distances}\n')
                 f.write(log_string)
-        print(f'Designs Finished!...Time Elapsed: {time.time() - now}')
+        print(f'Designs Finished!...Time Elapsed: {round(time.time() - now, 5)}s')
 
-        # if inplace:
-        #     self.trnas = {name: trna for name, trna in self.exemplar_trnas.items() if name in chosen_names}
 
 
 ###################################################################################################################
@@ -977,9 +980,6 @@ class Part2(object):
 
         # Now create seq_dict e.g. for tRNA8-9*, seq_dict = {8: 'T', 9: 'A'}
         if self.region == 'tRNA26_44-48*':
-            # Different alignment for variable loop - now I think about this, I could perform this
-            # in previous step, and assign the aligned version to the part_tuple.align attribute, simplifying this
-            # However this works as is, so don't touch
             # Added 2 to each index compared to old class due to addition of '26base_'
             self.seq_dict = {44: self.seq[2], 48: self.seq[-1], 45: self.seq[3], 26: self.seq[0]}
             if len(self.seq) > 5:
